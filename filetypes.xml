@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="non_json" type="PLAIN_TEXT" />
+      <mapping ext="!!!" type="PLAIN_TEXT" />
       <mapping pattern="com" type="XML" />
       <mapping pattern="firstTest" type="XML" />
       <mapping pattern="thirdTest" type="XML" />
